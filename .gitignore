@@ -1,0 +1,5 @@
+docker-compose.yml
+/.vscode
+/dataprocessing
+/deplyoment
+/testing
