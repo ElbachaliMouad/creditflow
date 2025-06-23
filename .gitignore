@@ -3,4 +3,4 @@ docker-compose.yml
 /dataprocessing
 /deplyoment
 /testing
-/dev/ligispluserver/dockerfile
+/dev/creditflowserver/dockerfile

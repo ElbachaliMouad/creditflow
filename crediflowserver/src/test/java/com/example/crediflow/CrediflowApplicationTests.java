@@ -1,10 +1,10 @@
-package com.example.ligisplus;
+package com.example.crediflow;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LigisplusApplicationTests {
+class CrediflowApplicationTests {
 
 	@Test
 	void contextLoads() {
